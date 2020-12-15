@@ -1,0 +1,32 @@
+html{
+    background-color: black;
+}
+input{
+    width: 500;
+    font-size: 50px;
+    margin-left: 70px;
+}
+button {
+    width : 500px;
+    margin-left: 270px;
+    font-size: 50px;
+    color: brown;
+    background-color: cadetblue;
+  }
+p{
+    position:relative;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+div{
+    margin: 100px;
+    padding: 50px;
+    border: 3px solid #999;
+    background-color: #D35400;
+    position: relative;
+    border-radius: 0;
+    width: 1000px;
+    height: 500px;
+}
